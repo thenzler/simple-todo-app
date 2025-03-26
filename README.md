@@ -18,9 +18,18 @@ A clean, responsive to-do list web application with local storage functionality.
 - JavaScript (vanilla, no frameworks)
 - Local Storage API for data persistence
 
+## Important: Enabling GitHub Pages
+
+To make the live demo work, you need to enable GitHub Pages:
+
+1. Go to your repository settings
+2. Navigate to "Pages" in the left sidebar
+3. Under "Build and deployment", select "GitHub Actions" as the source
+4. The site will be published at: https://thenzler.github.io/simple-todo-app/
+
 ## How to Use
 
-1. Visit the [live demo](https://thenzler.github.io/simple-todo-app/)
+1. Visit the [live demo](https://thenzler.github.io/simple-todo-app/) (after enabling GitHub Pages)
 2. Type a task in the input field and press Enter or click the "Add" button
 3. Click on a task to mark it as completed
 4. Click the delete icon to remove a task
